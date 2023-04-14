@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 4\account\account\bin\Debug\account.exe.config
+D:\UST Traning\DAY 4\account\account\bin\Debug\account.exe
+D:\UST Traning\DAY 4\account\account\bin\Debug\account.pdb
+D:\UST Traning\DAY 4\account\account\obj\Debug\account.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 4\account\account\obj\Debug\account.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 4\account\account\obj\Debug\account.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 4\account\account\obj\Debug\account.exe
+D:\UST Traning\DAY 4\account\account\obj\Debug\account.pdb

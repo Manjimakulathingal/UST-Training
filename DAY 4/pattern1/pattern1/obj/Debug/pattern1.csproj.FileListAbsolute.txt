@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 4\pattern1\pattern1\bin\Debug\pattern1.exe.config
+D:\UST Traning\DAY 4\pattern1\pattern1\bin\Debug\pattern1.exe
+D:\UST Traning\DAY 4\pattern1\pattern1\bin\Debug\pattern1.pdb
+D:\UST Traning\DAY 4\pattern1\pattern1\obj\Debug\pattern1.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 4\pattern1\pattern1\obj\Debug\pattern1.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 4\pattern1\pattern1\obj\Debug\pattern1.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 4\pattern1\pattern1\obj\Debug\pattern1.exe
+D:\UST Traning\DAY 4\pattern1\pattern1\obj\Debug\pattern1.pdb

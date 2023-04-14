@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: selection sort2, Configuration: Debug Any CPU ------
+1>  selection sort2 -> D:\UST Traning\DAY 4\selection sort2\selection sort2\bin\Debug\selection sort2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 5:20 PM and took 00.351 seconds ==========

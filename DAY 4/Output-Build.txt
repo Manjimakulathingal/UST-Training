@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: sorting, Configuration: Debug Any CPU ------
+1>  sorting -> D:\UST Traning\DAY 4\sorting\sorting\bin\Debug\sorting.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:17 PM and took 01.460 seconds ==========
