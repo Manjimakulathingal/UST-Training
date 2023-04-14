@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: VotingUI, Configuration: Debug Any CPU ------
+1>D:\UST Traning\DAY 2\VotingUI\VotingUI\Program.cs(32,13,32,19): warning CS0162: Unreachable code detected
+1>  VotingUI -> D:\UST Traning\DAY 2\VotingUI\VotingUI\bin\Debug\VotingUI.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 8:56 AM and took 00.580 seconds ==========
