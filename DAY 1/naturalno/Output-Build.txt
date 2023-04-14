@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: naturalno, Configuration: Debug Any CPU ------
+1>  naturalno -> D:\UST Traning\DAY 1\naturalno\naturalno\bin\Debug\naturalno.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 3:52 PM and took 00.324 seconds ==========
