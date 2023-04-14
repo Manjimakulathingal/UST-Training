@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 3\ABSDIFF\ABSDIFF\bin\Debug\ABSDIFF.exe.config
+D:\UST Traning\DAY 3\ABSDIFF\ABSDIFF\bin\Debug\ABSDIFF.exe
+D:\UST Traning\DAY 3\ABSDIFF\ABSDIFF\bin\Debug\ABSDIFF.pdb
+D:\UST Traning\DAY 3\ABSDIFF\ABSDIFF\obj\Debug\ABSDIFF.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 3\ABSDIFF\ABSDIFF\obj\Debug\ABSDIFF.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 3\ABSDIFF\ABSDIFF\obj\Debug\ABSDIFF.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 3\ABSDIFF\ABSDIFF\obj\Debug\ABSDIFF.exe
+D:\UST Traning\DAY 3\ABSDIFF\ABSDIFF\obj\Debug\ABSDIFF.pdb

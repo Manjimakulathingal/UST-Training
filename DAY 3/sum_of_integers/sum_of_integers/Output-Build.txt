@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: sum_of_integers, Configuration: Debug Any CPU ------
+1>  sum_of_integers -> D:\UST Traning\DAY 3\sum_of_integers\sum_of_integers\bin\Debug\sum_of_integers.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 1:49 PM and took 01.577 seconds ==========

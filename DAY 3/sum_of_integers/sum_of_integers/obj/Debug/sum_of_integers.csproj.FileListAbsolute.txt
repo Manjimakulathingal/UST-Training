@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 3\sum_of_integers\sum_of_integers\bin\Debug\sum_of_integers.exe.config
+D:\UST Traning\DAY 3\sum_of_integers\sum_of_integers\bin\Debug\sum_of_integers.exe
+D:\UST Traning\DAY 3\sum_of_integers\sum_of_integers\bin\Debug\sum_of_integers.pdb
+D:\UST Traning\DAY 3\sum_of_integers\sum_of_integers\obj\Debug\sum_of_integers.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 3\sum_of_integers\sum_of_integers\obj\Debug\sum_of_integers.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 3\sum_of_integers\sum_of_integers\obj\Debug\sum_of_integers.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 3\sum_of_integers\sum_of_integers\obj\Debug\sum_of_integers.exe
+D:\UST Traning\DAY 3\sum_of_integers\sum_of_integers\obj\Debug\sum_of_integers.pdb
