@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 4\selection sort\selection sort\bin\Debug\selection sort.exe.config
+D:\UST Traning\DAY 4\selection sort\selection sort\bin\Debug\selection sort.exe
+D:\UST Traning\DAY 4\selection sort\selection sort\bin\Debug\selection sort.pdb
+D:\UST Traning\DAY 4\selection sort\selection sort\obj\Debug\selection sort.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 4\selection sort\selection sort\obj\Debug\selection sort.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 4\selection sort\selection sort\obj\Debug\selection sort.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 4\selection sort\selection sort\obj\Debug\selection sort.exe
+D:\UST Traning\DAY 4\selection sort\selection sort\obj\Debug\selection sort.pdb

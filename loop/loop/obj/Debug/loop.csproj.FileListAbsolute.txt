@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 4\loop\loop\bin\Debug\loop.exe.config
+D:\UST Traning\DAY 4\loop\loop\bin\Debug\loop.exe
+D:\UST Traning\DAY 4\loop\loop\bin\Debug\loop.pdb
+D:\UST Traning\DAY 4\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 4\loop\loop\obj\Debug\loop.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 4\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 4\loop\loop\obj\Debug\loop.exe
+D:\UST Traning\DAY 4\loop\loop\obj\Debug\loop.pdb
