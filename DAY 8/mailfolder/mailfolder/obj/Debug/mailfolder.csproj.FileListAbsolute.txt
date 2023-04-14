@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 8\mailfolder\mailfolder\bin\Debug\mailfolder.exe.config
+D:\UST Traning\DAY 8\mailfolder\mailfolder\bin\Debug\mailfolder.exe
+D:\UST Traning\DAY 8\mailfolder\mailfolder\bin\Debug\mailfolder.pdb
+D:\UST Traning\DAY 8\mailfolder\mailfolder\obj\Debug\mailfolder.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 8\mailfolder\mailfolder\obj\Debug\mailfolder.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 8\mailfolder\mailfolder\obj\Debug\mailfolder.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 8\mailfolder\mailfolder\obj\Debug\mailfolder.exe
+D:\UST Traning\DAY 8\mailfolder\mailfolder\obj\Debug\mailfolder.pdb
