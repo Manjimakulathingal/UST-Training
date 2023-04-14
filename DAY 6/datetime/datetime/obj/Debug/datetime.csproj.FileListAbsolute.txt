@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 5\datetime\datetime\bin\Debug\datetime.exe.config
+D:\UST Traning\DAY 5\datetime\datetime\bin\Debug\datetime.exe
+D:\UST Traning\DAY 5\datetime\datetime\bin\Debug\datetime.pdb
+D:\UST Traning\DAY 5\datetime\datetime\obj\Debug\datetime.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 5\datetime\datetime\obj\Debug\datetime.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 5\datetime\datetime\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 5\datetime\datetime\obj\Debug\datetime.exe
+D:\UST Traning\DAY 5\datetime\datetime\obj\Debug\datetime.pdb

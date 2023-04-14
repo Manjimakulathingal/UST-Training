@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: loopexercises, Configuration: Debug Any CPU ------
+1>D:\UST Traning\DAY 5\loopexercises\loopexercises\Program.cs(13,17,13,18): warning CS0219: The variable 'n' is assigned but its value is never used
+1>  loopexercises -> D:\UST Traning\DAY 5\loopexercises\loopexercises\bin\Debug\loopexercises.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 3:41 PM and took 01.954 seconds ==========
