@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 12\exercises\exercises\bin\Debug\exercises.exe.config
+D:\UST Traning\DAY 12\exercises\exercises\bin\Debug\exercises.exe
+D:\UST Traning\DAY 12\exercises\exercises\bin\Debug\exercises.pdb
+D:\UST Traning\DAY 12\exercises\exercises\obj\Debug\exercises.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 12\exercises\exercises\obj\Debug\exercises.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 12\exercises\exercises\obj\Debug\exercises.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 12\exercises\exercises\obj\Debug\exercises.exe
+D:\UST Traning\DAY 12\exercises\exercises\obj\Debug\exercises.pdb
