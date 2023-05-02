@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 12\writeandread\writeandread\bin\Debug\writeandread.exe.config
+D:\UST Traning\DAY 12\writeandread\writeandread\bin\Debug\writeandread.exe
+D:\UST Traning\DAY 12\writeandread\writeandread\bin\Debug\writeandread.pdb
+D:\UST Traning\DAY 12\writeandread\writeandread\obj\Debug\writeandread.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 12\writeandread\writeandread\obj\Debug\writeandread.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 12\writeandread\writeandread\obj\Debug\writeandread.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 12\writeandread\writeandread\obj\Debug\writeandread.exe
+D:\UST Traning\DAY 12\writeandread\writeandread\obj\Debug\writeandread.pdb
