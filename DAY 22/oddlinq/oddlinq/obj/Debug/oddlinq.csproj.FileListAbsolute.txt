@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 22\oddlinq\oddlinq\bin\Debug\oddlinq.exe.config
+D:\UST Traning\DAY 22\oddlinq\oddlinq\bin\Debug\oddlinq.exe
+D:\UST Traning\DAY 22\oddlinq\oddlinq\bin\Debug\oddlinq.pdb
+D:\UST Traning\DAY 22\oddlinq\oddlinq\obj\Debug\oddlinq.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 22\oddlinq\oddlinq\obj\Debug\oddlinq.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 22\oddlinq\oddlinq\obj\Debug\oddlinq.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 22\oddlinq\oddlinq\obj\Debug\oddlinq.exe
+D:\UST Traning\DAY 22\oddlinq\oddlinq\obj\Debug\oddlinq.pdb

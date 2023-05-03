@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 22\linq1even\linq1even\bin\Debug\linq1even.exe.config
+D:\UST Traning\DAY 22\linq1even\linq1even\bin\Debug\linq1even.exe
+D:\UST Traning\DAY 22\linq1even\linq1even\bin\Debug\linq1even.pdb
+D:\UST Traning\DAY 22\linq1even\linq1even\obj\Debug\linq1even.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 22\linq1even\linq1even\obj\Debug\linq1even.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 22\linq1even\linq1even\obj\Debug\linq1even.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 22\linq1even\linq1even\obj\Debug\linq1even.exe
+D:\UST Traning\DAY 22\linq1even\linq1even\obj\Debug\linq1even.pdb

@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 22\numlinq\numlinq\bin\Debug\numlinq.exe.config
+D:\UST Traning\DAY 22\numlinq\numlinq\bin\Debug\numlinq.exe
+D:\UST Traning\DAY 22\numlinq\numlinq\bin\Debug\numlinq.pdb
+D:\UST Traning\DAY 22\numlinq\numlinq\obj\Debug\numlinq.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 22\numlinq\numlinq\obj\Debug\numlinq.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 22\numlinq\numlinq\obj\Debug\numlinq.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 22\numlinq\numlinq\obj\Debug\numlinq.exe
+D:\UST Traning\DAY 22\numlinq\numlinq\obj\Debug\numlinq.pdb
