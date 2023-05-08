@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 15\songreq3\songreq5\bin\Debug\songreq5.exe.config
+D:\UST Traning\DAY 15\songreq3\songreq5\bin\Debug\songreq5.exe
+D:\UST Traning\DAY 15\songreq3\songreq5\bin\Debug\songreq5.pdb
+D:\UST Traning\DAY 15\songreq3\songreq5\obj\Debug\songreq5.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 15\songreq3\songreq5\obj\Debug\songreq5.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 15\songreq3\songreq5\obj\Debug\songreq5.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 15\songreq3\songreq5\obj\Debug\songreq5.exe
+D:\UST Traning\DAY 15\songreq3\songreq5\obj\Debug\songreq5.pdb
