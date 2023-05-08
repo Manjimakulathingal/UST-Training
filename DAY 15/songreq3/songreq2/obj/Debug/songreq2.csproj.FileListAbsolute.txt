@@ -1,8 +1,0 @@
-D:\UST Traning\DAY 15\songreq3\songreq2\bin\Debug\songreq2.exe.config
-D:\UST Traning\DAY 15\songreq3\songreq2\bin\Debug\songreq2.exe
-D:\UST Traning\DAY 15\songreq3\songreq2\bin\Debug\songreq2.pdb
-D:\UST Traning\DAY 15\songreq3\songreq2\obj\Debug\songreq2.csproj.AssemblyReference.cache
-D:\UST Traning\DAY 15\songreq3\songreq2\obj\Debug\songreq2.csproj.SuggestedBindingRedirects.cache
-D:\UST Traning\DAY 15\songreq3\songreq2\obj\Debug\songreq2.csproj.CoreCompileInputs.cache
-D:\UST Traning\DAY 15\songreq3\songreq2\obj\Debug\songreq2.exe
-D:\UST Traning\DAY 15\songreq3\songreq2\obj\Debug\songreq2.pdb
