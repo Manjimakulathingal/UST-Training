@@ -1,0 +1,13 @@
+D:\UST Traning\DAY 24\EMPDB\EMPDB\bin\Debug\EMPDB.exe.config
+D:\UST Traning\DAY 24\EMPDB\EMPDB\bin\Debug\EMPDB.exe
+D:\UST Traning\DAY 24\EMPDB\EMPDB\bin\Debug\EMPDB.pdb
+D:\UST Traning\DAY 24\EMPDB\EMPDB\bin\Debug\EntityFramework.dll
+D:\UST Traning\DAY 24\EMPDB\EMPDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\UST Traning\DAY 24\EMPDB\EMPDB\bin\Debug\EntityFramework.xml
+D:\UST Traning\DAY 24\EMPDB\EMPDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\UST Traning\DAY 24\EMPDB\EMPDB\obj\Debug\EMPDB.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 24\EMPDB\EMPDB\obj\Debug\EMPDB.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 24\EMPDB\EMPDB\obj\Debug\EMPDB.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 24\EMPDB\EMPDB\obj\Debug\EMPDB.csproj.CopyComplete
+D:\UST Traning\DAY 24\EMPDB\EMPDB\obj\Debug\EMPDB.exe
+D:\UST Traning\DAY 24\EMPDB\EMPDB\obj\Debug\EMPDB.pdb
