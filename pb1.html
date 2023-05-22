@@ -1,0 +1,28 @@
+<!--Write a JavaScript to input a number and print its table in standard table format using HTML Table tags-->
+<html>
+    <head>
+        <title>multi.</title>
+        <script type="text/JavaScript">
+            function printTable() {
+                var num;
+                num = Number(document.getElementById("txtNumber").value);
+                for (var i = 1; i <= 10; i++) {
+                    var pTag = document.getElementById("demo");
+                    
+                    pTag.innerHTML += num * i + "<br/>";
+                }
+            }
+        </script>
+    </head>
+
+    <body style="text-align: center;">
+        <h1>Write a JavaScript to input a number and print its table in standard table format using HTML Table tags.</h1>
+        <p><input type="text" id="txtNumber" placeholder="input a number" /></p>
+        <p>
+            <input type="button" value="Print standard Table." onclick="printTable()" />
+            
+        </p>
+
+        <p id="demo"></p>
+    </body>
+</html>
