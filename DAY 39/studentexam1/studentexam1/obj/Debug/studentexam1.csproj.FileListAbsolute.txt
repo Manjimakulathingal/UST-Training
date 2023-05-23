@@ -1,0 +1,8 @@
+D:\UST Traning\39\studentexam1\studentexam1\bin\Debug\studentexam1.exe.config
+D:\UST Traning\39\studentexam1\studentexam1\bin\Debug\studentexam1.exe
+D:\UST Traning\39\studentexam1\studentexam1\bin\Debug\studentexam1.pdb
+D:\UST Traning\39\studentexam1\studentexam1\obj\Debug\studentexam1.csproj.AssemblyReference.cache
+D:\UST Traning\39\studentexam1\studentexam1\obj\Debug\studentexam1.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\39\studentexam1\studentexam1\obj\Debug\studentexam1.csproj.CoreCompileInputs.cache
+D:\UST Traning\39\studentexam1\studentexam1\obj\Debug\studentexam1.exe
+D:\UST Traning\39\studentexam1\studentexam1\obj\Debug\studentexam1.pdb
