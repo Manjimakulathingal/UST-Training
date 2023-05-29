@@ -1,0 +1,8 @@
+D:\UST Traning\ManjimaD3\exer1\exer1\bin\Debug\exer1.exe.config
+D:\UST Traning\ManjimaD3\exer1\exer1\bin\Debug\exer1.exe
+D:\UST Traning\ManjimaD3\exer1\exer1\bin\Debug\exer1.pdb
+D:\UST Traning\ManjimaD3\exer1\exer1\obj\Debug\exer1.csproj.AssemblyReference.cache
+D:\UST Traning\ManjimaD3\exer1\exer1\obj\Debug\exer1.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\ManjimaD3\exer1\exer1\obj\Debug\exer1.csproj.CoreCompileInputs.cache
+D:\UST Traning\ManjimaD3\exer1\exer1\obj\Debug\exer1.exe
+D:\UST Traning\ManjimaD3\exer1\exer1\obj\Debug\exer1.pdb
