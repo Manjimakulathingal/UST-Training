@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 40\powof2\powof2\obj\Debug\powof2.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 40\powof2\powof2\obj\Debug\powof2.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 40\powof2\powof2\obj\Debug\powof2.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 40\powof2\powof2\bin\Debug\powof2.exe.config
+D:\UST Traning\DAY 40\powof2\powof2\bin\Debug\powof2.exe
+D:\UST Traning\DAY 40\powof2\powof2\bin\Debug\powof2.pdb
+D:\UST Traning\DAY 40\powof2\powof2\obj\Debug\powof2.exe
+D:\UST Traning\DAY 40\powof2\powof2\obj\Debug\powof2.pdb

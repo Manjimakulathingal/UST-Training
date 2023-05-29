@@ -1,0 +1,8 @@
+D:\UST Traning\DAY 40\regex1\regex1\bin\Debug\regex1.exe.config
+D:\UST Traning\DAY 40\regex1\regex1\bin\Debug\regex1.exe
+D:\UST Traning\DAY 40\regex1\regex1\bin\Debug\regex1.pdb
+D:\UST Traning\DAY 40\regex1\regex1\obj\Debug\regex1.csproj.AssemblyReference.cache
+D:\UST Traning\DAY 40\regex1\regex1\obj\Debug\regex1.csproj.SuggestedBindingRedirects.cache
+D:\UST Traning\DAY 40\regex1\regex1\obj\Debug\regex1.csproj.CoreCompileInputs.cache
+D:\UST Traning\DAY 40\regex1\regex1\obj\Debug\regex1.exe
+D:\UST Traning\DAY 40\regex1\regex1\obj\Debug\regex1.pdb
