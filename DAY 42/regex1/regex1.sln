@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "regex1", "regex1\regex1.csproj", "{4A9AC487-56D0-4D72-AB42-101E0FD20490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9AC487-56D0-4D72-AB42-101E0FD20490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9AC487-56D0-4D72-AB42-101E0FD20490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9AC487-56D0-4D72-AB42-101E0FD20490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9AC487-56D0-4D72-AB42-101E0FD20490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3DCC3A4-F5E7-4D71-9360-9EC95E796702}
+	EndGlobalSection
+EndGlobal
