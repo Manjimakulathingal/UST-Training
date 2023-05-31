@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let raceNumber = Math.floor(Math.random() * 1000);
+var registeredEarly = true;
+var runnerage = 18;
+if (runnerage > 18 && registeredEarly) {
+  raceNumber+=1000
+}
+if(runnerage>18 && registeredEarly ){
+  console.log("they will race at 9:30AM " 
+  + raceNumber)
+}
+else if(runnerage>18 && !registeredEarly){
+  console.log("they will race at 11:30AM "+ raceNumber )
+}
+else { console.log("Youth registrants run at 12:30 pm (regardless of registration)" + raceNumber)
+}
+
+    </script>
+</body>
+</html>
