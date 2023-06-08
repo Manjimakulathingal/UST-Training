@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gnsKNrsrO9TqAcWvB3ZcfofPOX+D4fhb0nWuvM2pe2U=",
+  "Source": "jsonwapi",
+  "BasePath": "_content/jsonwapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
